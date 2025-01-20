@@ -1,7 +1,7 @@
 {
   "branches": ["main"],
   "tagFormat": "${version}",
-  "repositoryUrl": "https://github.com/hutchic-org/docker-websocat.git",
+  "repositoryUrl": "https://github.com/hutchic-org/template-ghcr-release.git",
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
